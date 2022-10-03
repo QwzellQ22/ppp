@@ -1,0 +1,48 @@
+body{
+    width: 900px;
+  
+}
+.container {
+    margin: auto;
+    padding: 200px;
+}
+.inp{
+    width: 300px;
+    height: 50px;
+    border: none;
+}
+.username{
+    width: 300px;
+    height: 50px;
+    border: none;
+}
+.btn{
+    width: 300px;
+    border-radius: 30px;
+}
+.in{
+    color: rgb(0, 247, 74);
+}
+.h4{
+    color: grey;
+    
+}
+.row{
+    width: 600px;
+  height: 300px;
+    margin-left: 500px;
+    margin-top: -400px;
+    
+}
+.login{
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    background-color: darkgrey;
+}
+.login:hover{
+    background-color: rgb(185, 185, 241);
+}
+hr{
+    width: 400px;
+}
